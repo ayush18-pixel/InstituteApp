@@ -78,7 +78,7 @@ Having trouble with your development setup or looking for technical documentatio
 We welcome contributions from the community to improve UhlLink! 
 
 **Maintainers**:
-- Core Development Team ([@your-username](https://github.com/your-username))
+- Core Development Team ([@ayush18-pixel](https://github.com/ayush18-pixel))+ IIT Mandi Winter Project Team
 
 **How to Contribute**:
 1. Fork the project
